@@ -35,7 +35,7 @@ All of my projects are available at my [E-Portfolio](https://rayaneww.github.io/
 #### ⚡ Frameworks
 <p align="left">
   <a href="https://codeigniter.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/></a>
 </p>
 
 #### 🔙 Backend

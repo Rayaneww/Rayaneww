@@ -6,6 +6,9 @@
 ### 🌱 Currently Learning
 - **JavaScript**
 
+### 🛠️Currently Work
+- **ChronoPath**
+
 ### 👨‍💻 Projects
 All of my projects are available at my [E-Portfolio](https://rayaneww.github.io/E-Portfolio/)
 
